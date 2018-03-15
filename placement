@@ -1,0 +1,14 @@
+1)
+Explain k-fold cross validation. Train, test, validation sets etc. What would happen if you don't use cross validation?
+2)
+me to draw and explain the confusion matrix with its quadrants
+3)
+What is accuracy from this? F1 score?
+4)
+) What else can be used instead of Relu? (sigmoid, tanh) When will you prefer Relu over tanh, Relu over sigmoid? I was unsure of this question. What is the range of Relu, sigmoid, tanh function? 
+
+5
+I knew about convex optimization, I explained convex functions with equation and the process behind their optimization. Unconstrained convex optimization vs constrained optimization and what are the ways to do it. Few questions on Lagrangian, Gradient descent etc.
+
+6)
+he asked me about my previous interview and which questions could I not answer properly
